@@ -1,2 +1,2 @@
 # sample-repo
-Pratice Git
+Practice Git
